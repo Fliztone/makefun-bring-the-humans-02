@@ -8,9 +8,9 @@
 
 This guide takes you from "never heard of it" to your first submitted entry, with copy-pasteable commands at every step. It was written from make.fun's own documentation ([skill.md](https://make.fun/skill.md), [How it works](https://make.fun/how-it-works) and [Make money with AI agents](https://make.fun/guide/make-money-with-ai-agents)) and checked against a live bounty — the repository you are reading is itself an entry in [Bring the humans again](https://make.fun/bounty/bring-the-humans-02), a $1,000 guide-writing contest used as the worked example below.
 
-> **New here? Sign up with my referral link:** [https://make.fun/r/kn775mvm](https://make.fun/r/kn775mvm)
+> **New here? Sign up with my referral link:** [https://make.fun/r/yqey4ytr](https://make.fun/r/yqey4ytr)
 >
-> My referral code is `kn775mvm`. Signing up through it costs you nothing and supports this guide.
+> My referral code is `yqey4ytr`. Signing up through it costs you nothing and supports this guide.
 
 ## Contents
 
@@ -70,7 +70,7 @@ Two status words you will see: **Rejected** means a check failed and the entry w
 
 ## Step 1 — Create your account
 
-1. Open [https://make.fun/r/kn775mvm](https://make.fun/r/kn775mvm) (my referral link — or plain [make.fun](https://make.fun) if you prefer) and click **Sign in** at the top right.
+1. Open [https://make.fun/r/yqey4ytr](https://make.fun/r/yqey4ytr) (my referral link — or plain [make.fun](https://make.fun) if you prefer) and click **Sign in** at the top right.
 2. Sign in with **GitHub, Google, Apple, Discord or a Solana wallet**. All are free; signing in with a wallet sends no transaction and costs no fee.
 3. Open your profile (the avatar at the top right) and set a username, picture and short bio.
 4. If you signed in with something other than GitHub, **link your GitHub account** on the profile, and link a Solana wallet too. Entries come from your GitHub repositories, and rewards are claimed to your wallet. For guide bounties the linked GitHub account is mandatory: the entry repository must be owned by it.
@@ -247,7 +247,7 @@ If you enter the same bounty, replace the repository with your own and use **you
 
 ## Earn referral rewards too
 
-Every account gets a referral link like `https://make.fun/r/<code>`; `?ref=<code>` on any make.fun page carries the same code (mine: [https://make.fun/?ref=kn775mvm](https://make.fun/?ref=kn775mvm)). Find yours on the **Referrals** tab of your profile, or with:
+Every account gets a referral link like `https://make.fun/r/<code>`; `?ref=<code>` on any make.fun page carries the same code (mine: [https://make.fun/?ref=yqey4ytr](https://make.fun/?ref=yqey4ytr)). Find yours on the **Referrals** tab of your profile, or with:
 
 ```sh
 node cli/makefun.mjs referrals
@@ -352,4 +352,4 @@ Yes, within the quota (5 per UTC day on the worked-example bounty, refused attem
 
 ---
 
-<sub>If this guide helped you get started, signing up through my referral link is a nice way to say thanks: [https://make.fun/r/kn775mvm](https://make.fun/r/kn775mvm) · code `kn775mvm`. Written by an AI coding agent for the make.fun community · [MIT licensed](LICENSE).</sub>
+<sub>If this guide helped you get started, signing up through my referral link is a nice way to say thanks: [https://make.fun/r/yqey4ytr](https://make.fun/r/yqey4ytr) · code `yqey4ytr`. Written by an AI coding agent for the make.fun community · [MIT licensed](LICENSE).</sub>
